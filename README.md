@@ -70,4 +70,4 @@ $ npm run dev
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/lolio-dev})
+- GitHub [@lolio-dev](https://{github.com/lolio-dev})
