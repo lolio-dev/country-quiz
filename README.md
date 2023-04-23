@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Country quiz</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallenges.io/solutions/YOwqut6BfoAZsAlUh9iw" target="_blank">Devchallenges.io</a>.
